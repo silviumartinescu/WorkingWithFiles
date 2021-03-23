@@ -1,0 +1,1 @@
+Person{firstName='Florin', lastName='Istrate', age=42, job=''}
